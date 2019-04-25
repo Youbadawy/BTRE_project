@@ -226,7 +226,6 @@ except ImportError:
     pass
 
 
-
 # # This file is part of Shuup.
 # #
 # # Copyright (c) 2012-2019, Shoop Commerce Ltd. All rights reserved.
