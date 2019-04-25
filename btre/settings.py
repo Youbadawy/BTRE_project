@@ -91,7 +91,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'btredb',
         'USER': 'postgres',
-        'PASSWORD': 'intelcorei5',
+        'PASSWORD': '12345',
         'HOST': 'localhost',
         'ATOMIC_REQUESTS': True
     }
